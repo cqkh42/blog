@@ -1,1 +1,1 @@
-Sitemap: https://cqkh42.github.io/test-blog/sitemap.xml
+Sitemap: https://cqkh42.github.io/blog/sitemap.xml
