@@ -6,8 +6,6 @@ export GIT_SSH_COMMAND="ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChec
 eval "$(ssh-agent -s)"
 
 ######## Run notebook/word converter ########
-# word converter using pandoc
-/fastpages/word2post.sh
 # notebook converter using nbdev
 cp /fastpages/settings.ini .
 python /fastpages/nb2post.py
@@ -44,5 +42,3 @@ if [[ "$INPUT_BOOL_SAVE_MARKDOWN" == "true" ]];then
         git push fastpages-origin HEAD:"$GITHUB_REF"
     fi
 fi
-
-
