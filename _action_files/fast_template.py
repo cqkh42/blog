@@ -9,7 +9,7 @@ _re_blog_date = re.compile(r'([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])-)'
 # Check for leading dashses or numbers
 _re_numdash = re.compile(r'(^[-\d]+)')
 
-warning_type = Tuple[str, stre]
+warning_type = Tuple[str, str]
 
 def rename_for_jekyll(nb_path: Path, warnings: Optional[Set[warning_type]]=None) -> str:
     """
