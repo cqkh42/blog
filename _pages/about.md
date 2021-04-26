@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I'm Jack, a Data Scientist based in London.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+This is a collection of articles I've put together over time to document 
+some of the things I've learned.
