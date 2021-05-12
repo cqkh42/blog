@@ -7,8 +7,6 @@ categories: [learning]
 comments: true
 ---
 
-# Newsletters and Mailing Lists
-
 Keeping up to date in the world of technology can be hard. 
 
 A lot of people rely on twitter for their latest updates and 
