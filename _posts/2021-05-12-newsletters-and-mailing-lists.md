@@ -4,13 +4,14 @@ layout: post
 description: A collection of resources to help you keep up to date.
 title: Newsletters And Mailing Lists
 categories: [learning]
+comments: true
 ---
 
 # Newsletters and Mailing Lists
 
 Keeping up to date in the world of technology can be hard. 
 
-I know a lot of people rely on twitter for their latest updates and 
+A lot of people rely on twitter for their latest updates and 
 information, but I like to keep it old school; relying mailing on emails (and 
 reddit, lots of reddit). These resources, coupled with Chrome's 
 [Reading List](https://support.google.com/chrome/answer/7343019?co=GENIE.Platform%3DiOS&hl=en) 
@@ -37,7 +38,7 @@ this post through The Sample.
 ### [O'Reilly](https://www.oreilly.com/emails/newsletters/)
 
 Everyone has heard of them, no-one is quite sure what they do. 
-"Are they a publisher? A consultancy? A SaaS?" However, they do offer several 
+Are they a publisher? A consultancy? SaaS? However, they do offer several 
 newsletters across a wide range of subjects, from Data Science & Programming 
 to Infrastruce, Ops, and even Marketing and Leadership.
 
