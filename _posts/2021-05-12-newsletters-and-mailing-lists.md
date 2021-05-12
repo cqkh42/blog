@@ -3,6 +3,7 @@ toc: false
 layout: post
 description: A collection of resources to help you keep up to date.
 title: Newsletters And Mailing Lists
+categories: [learning]
 ---
 
 # Newsletters and Mailing Lists
